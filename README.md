@@ -1,6 +1,6 @@
 # Apprutas
 
-##Ejemplo simple de uso de rutas en Angular
+## Ejemplo simple de uso de rutas en Angular
 
 Existen 2 componentes aparte del inicial (app), llamados home y about (sin modificacion mas que el html de inicio)
 Revisar app.modules.ts ahi se genera el enrutamiento para poder generar una pequeña SPA
